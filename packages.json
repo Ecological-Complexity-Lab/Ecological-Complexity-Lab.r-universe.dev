@@ -1,0 +1,14 @@
+[
+    {
+        "package": "emln",
+        "url": "https://github.com/Ecological-Complexity-Lab/emln"
+    },
+    {
+        "package": "infomapecology",
+        "url": "https://github.com/Ecological-Complexity-Lab/infomap_ecology"
+    },
+    {
+        "package": "ggmira",
+        "url": "https://github.com/Ecological-Complexity-Lab/ggmira"
+    }
+]
