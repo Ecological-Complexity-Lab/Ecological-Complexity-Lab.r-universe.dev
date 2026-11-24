@@ -2,13 +2,16 @@
     {
         "package": "emln",
         "url": "https://github.com/Ecological-Complexity-Lab/emln"
+        "branch": "*release"
     },
     {
         "package": "infomapecology",
         "url": "https://github.com/Ecological-Complexity-Lab/infomap_ecology"
+        "branch": "*release"
     },
     {
         "package": "ggmira",
         "url": "https://github.com/Ecological-Complexity-Lab/ggmira"
+        "branch": "*release"
     }
 ]
